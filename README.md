@@ -1,3 +1,4 @@
+## original repository: [CapnKitten](https://github.com/CapnKitten/Spotify-Discord)
 # Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url] [![Download][download-logo]][download-url] 
 #### Combine Discord and Spotify into one
 <hr>
